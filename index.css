@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+body {
+  font-family: "Arial, sans-serif";
+  line-height: 1.4;
+  margin: 0;
+  padding: 0;
+  background: var(
+    --linear,
+    linear-gradient(90deg, #92c5de 0%, #152627 50.78%, #20b3ff 100%)
+  );
+  color: #ffffff;
+}
+
+h2 {
+  font-family: "Sans-Serif";
+  padding: 10px;
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+h5 {
+  color: black;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.card-text {
+  color: black;
+  font-style: italic;
+}
+
+p {
+  font-family: "Sans-Serif";
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.hash {
+  margin: 10px;
+}
+
+.readmore {
+  background: none;
+  border: none;
+  color: red;
+  font-size: 14px;
+}
+
+.img {
+  width: 95%;
+  height: 100%;
+  margin: 10px;
+}
+
+.contact {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 10px;
+  padding: 10px;
+  font-style: italic;
+}
+
+.copy {
+  color: #d6d6d4;
+  font-family: "roboto";
+}
